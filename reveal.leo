@@ -527,13 +527,13 @@ sudo pip3 install IPython[notebook]==3.2.1
 </t>
 <t tx="leo.20160114215624.9">&lt;section&gt;
     &lt;h1&gt;心得&lt;/h1&gt;
-    &lt;p&gt;這是我完全沒碰過的東西,希望我可以好好學習它!!!加油:))))&lt;/p&gt;
+    &lt;p&gt;上計算機程式的第一週還是不太知道老師在上甚麼,只知道好像有很多指令需要打,總而言之這麼專業的課程從未接觸過,覺得新奇又困難&lt;/p&gt;
 
 &lt;/section&gt;
 				
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;70分,我會努力的:))&lt;/p&gt;
+    &lt;p&gt;雖然照著老師做事勉強可以,不過還是有許多需要改善的部分,個人對這週學習表現給70分&lt;/p&gt;
 
 &lt;/section&gt;
 				
@@ -620,14 +620,14 @@ sudo pip3 install IPython[notebook]==3.2.1
 </t>
 <t tx="leo.20160114222319.9">&lt;section&gt;
     &lt;h1&gt;心得&lt;/h1&gt;
-    &lt;p&gt;面對一堆指令唯有不斷練習再練習,就可以把他學會了!!!加油哦:)))
+    &lt;p&gt;上計算機程式的第二週還是不太知道老師在上甚麼,只知道好像有很多指令需要打,總而言之這麼專業的課程從未接觸過,覺得新奇又困難
 &lt;/p&gt;
 
 &lt;/section&gt;
 				
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;70分,我會努力的:))&lt;/p&gt;
+    &lt;p&gt;雖然照著老師做事勉強可以,不過還是有許多需要改善的部分,個人對這週學習表現給70分&lt;/p&gt;
 
 &lt;/section&gt;
 			</t>
@@ -711,19 +711,13 @@ sudo pip3 install IPython[notebook]==3.2.1
 </t>
 <t tx="leo.20160114222506.9">&lt;section&gt;
     &lt;h1&gt;心得&lt;/h1&gt;
-    &lt;p&gt;幹了好多蠢事
-
-不過我也學到更多了
-
-老師說過在學校可以的話把所有的錯都犯了
-
-但出社會後就不要再犯了&lt;/p&gt;
+    &lt;p&gt;不斷的 clone 不斷 push ,雖然不容易學,但真的覺得電腦可以幫人類省很多麻煩,也真的覺得科技進步之迅速&lt;/p&gt;
 
 &lt;/section&gt;
 				
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;70分,我會努力的:))&lt;/p&gt;
+    &lt;p&gt;雖然照著老師做事勉強可以,不過還是有許多需要改善的部分,個人對這週學習表現給70分&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20160114222624.1">@language xml
@@ -792,13 +786,13 @@ sudo pip3 install IPython[notebook]==3.2.1
 </t>
 <t tx="leo.20160114222624.9">&lt;section&gt;
     &lt;h1&gt;自評與心得&lt;/h1&gt;
-    &lt;p&gt;放假真爽&lt;/p&gt;
+    &lt;p&gt;放假~~~~~~&lt;/p&gt;
 
 &lt;/section&gt;
 				
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;70分,我會努力的:))&lt;/p&gt;
+    &lt;p&gt;雖然照著老師做事勉強可以,不過還是有許多需要改善的部分,個人對這週學習表現給70分&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20160114222849.1">@language xml
@@ -870,13 +864,13 @@ sudo pip3 install IPython[notebook]==3.2.1
 </t>
 <t tx="leo.20160114222849.9">&lt;section&gt;
     &lt;h1&gt;心得&lt;/h1&gt;
-    &lt;p&gt;愈來愈難了!!不過我不會放棄的&lt;/p&gt;
+    &lt;p&gt;不斷的 clone 不斷 push ,雖然不容易學,但真的覺得電腦可以幫人類省很多麻煩,也真的覺得科技進步之迅速&lt;/p&gt;
 
 &lt;/section&gt;
 				
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;70分!我會加油的&lt;/p&gt;
+    &lt;p&gt;雖然照著老師做事勉強可以,不過還是有許多需要改善的部分,個人對這週學習表現給70分&lt;/p&gt;
 
 &lt;/section&gt;
 				
@@ -954,13 +948,13 @@ sudo pip3 install IPython[notebook]==3.2.1
 </t>
 <t tx="leo.20160114222938.9">&lt;section&gt;
     &lt;h1&gt;心得&lt;/h1&gt;
-    &lt;p&gt;倉儲很難用!!!真的!!!東西很容易被別人刪掉!或是leo檔壞掉!!但也讓我學習怎樣修復leo檔&lt;/p&gt;
+    &lt;p&gt;倉儲既又好用又麻煩,如果有兩人同是推上去,倉儲就受不了了,它就崩壞給你看,一崩壞  慘了大家都不用弄了,還好還有同學會修理  ^^&lt;/p&gt;
 
 &lt;/section&gt;
 				
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;80分,就看在我修好leo檔的分數吧:))))&lt;/p&gt;
+    &lt;p&gt;雖然照著老師做事勉強可以,不過還是有許多需要改善的部分,個人對這週學習表現給70分&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20160114223033.1">@language xml
@@ -1045,13 +1039,13 @@ wn.mainloop()&lt;/p&gt;
 </t>
 <t tx="leo.20160114223033.9">&lt;section&gt;
     &lt;h1&gt;心得&lt;/h1&gt;
-    &lt;p&gt;看到烏龜會動時,有一股好大好大的成就感喔:)))原來程式可以這麼好玩&lt;/p&gt;
+    &lt;p&gt;烏龜會動耶~動了~他真的在動,一個簡單的東西,能用程式做出來就非常稀奇呀！&lt;/p&gt;
 
 &lt;/section&gt;
 				
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;70分!!!我會再接再勵的&lt;/p&gt;
+    &lt;p&gt;雖然照著老師做事勉強可以,不過還是有許多需要改善的部分,個人對這週學習表現給70分&lt;/p&gt;
 
 &lt;/section&gt;
 			</t>
@@ -1124,13 +1118,13 @@ wn.mainloop()&lt;/p&gt;
 </t>
 <t tx="leo.20160114223121.9">&lt;section&gt;
     &lt;h1&gt;心得&lt;/h1&gt;
-    &lt;p&gt;我們要漸漸轉換為ipv6,現在純ipv6的網站還很少,但後來會越來越多的:)))&lt;/p&gt;
+    &lt;p&gt;聽老師說我們要漸漸轉為ipv6,雖然現在純ipv6很少人在用,但以後會越來越多&lt;/p&gt;
 
 &lt;/section&gt;
 				
 &lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;70分:)))我會更努力的&lt;/p&gt;
+    &lt;p&gt;雖然照著老師做事勉強可以,不過還是有許多需要改善的部分,個人對這週學習表現給70分&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20160114223305.1">@language xml
@@ -1265,17 +1259,13 @@ REM C:\WINDOWS\system32\cmd.exe /k %Disk%:\IDE\nodejs\nodejsvars.bat
 </t>
 <t tx="leo.20160114223305.9">&lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
-&lt;p&gt;自己慢慢漸入佳境了
-希望真的可以了解老師的苦心
-我會加油的:))))))&lt;/p&gt;
+&lt;p&gt;期中考完,代表著學程式也學了半學期了,雖然每次上課都聽不太懂,但也期許自己下半學期能越懂&lt;/p&gt;
 &lt;/section&gt;                            
                             
                             
 &lt;section&gt;
 &lt;h1&gt;自評&lt;/h1&gt;
-&lt;p&gt;自評分數：70               
-老師讓我過吧!!!!
-我會更加努力的!!!&lt;/p&gt;
+&lt;p&gt;雖然照著老師做事勉強可以,不過還是有許多需要改善的部分,個人對這週學習表現給70分&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20160114223353.1">@language xml
 @tabwidth -4
@@ -1349,12 +1339,12 @@ print("猜對了！總共猜了", 猜測次數, "次")&lt;/p&gt;
  
  &lt;section&gt;
  &lt;h1&gt;心得&lt;/h1&gt;
- &lt;p&gt;猜數字很有趣!!但程式碼很容易出問題!!不過當你看到它可以猜時,成就感會很大呦:)))&lt;/p&gt;
+ &lt;p&gt;猜數字還滿好玩的,尤其是可以一次就猜對,就可以獲得強烈的成就感&lt;/p&gt;
   &lt;/section&gt;
    
  &lt;section&gt;
  &lt;h1&gt;自評&lt;/h1&gt;
-&lt;p&gt;我給自己70分,還有可以去努力的空間!!!:)))&lt;/p&gt;
+&lt;p&gt;雖然照著老師做事勉強可以,不過還是有許多需要改善的部分,個人對這週學習表現給70分&lt;/p&gt;
 &lt;/section&gt; 	
 </t>
 <t tx="leo.20160114223353.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -1512,12 +1502,12 @@ while 遊戲進行中:
  
  &lt;section&gt;
  &lt;h1&gt;心得&lt;/h1&gt;
- &lt;p&gt;從最初的猜數字到最近的猜顏色!真的是越來越難了!!希望我可以把它給學起來!才不會白費老師的苦心阿:)))&lt;/p&gt;
+ &lt;p&gt;一開始的猜數字進階到猜顏色,真是不同境界的東西啊！程式碼和玩法都更上一層難度了&lt;/p&gt;
  &lt;/section&gt;
    
  &lt;section&gt;
  &lt;h1&gt;自評&lt;/h1&gt;
- &lt;p&gt;70分!!我會更加努力的&lt;/p&gt;
+ &lt;p&gt;雖然照著老師做事勉強可以,不過還是有許多需要改善的部分,個人對這週學習表現給70分&lt;/p&gt;
  &lt;/section&gt;  	
 </t>
 <t tx="leo.20160114223448.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -1608,12 +1598,12 @@ for i in range(11):
  
  &lt;section&gt;
  &lt;h1&gt;心得&lt;/h1&gt;
- &lt;p&gt;快學期末了!!總算會一點點東西了!我真替我自己高興啊:)))謝謝大家及老師的教導阿&lt;/p&gt;
+ &lt;p&gt;哇！用程式畫東西出來耶  好神奇,雖然是簡單的直線,但還是非常新奇&lt;/p&gt;
 &lt;/section&gt;
   
 &lt;section&gt;
 &lt;h1&gt;自評&lt;/h1&gt;
-&lt;p&gt;70分:))真高興啊:))&lt;/p&gt;
+&lt;p&gt;雖然照著老師做事勉強可以,不過還是有許多需要改善的部分,個人對這週學習表現給70分&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20160114223538.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -1778,12 +1768,12 @@ ctx.stroke()
 &lt;/section&gt;
 &lt;section&gt;
  &lt;h1&gt;心得&lt;/h1&gt;
- &lt;p&gt;在這聖誕佳節中,祝大家都可以闔家平安!!!!Yap祝福你&lt;/p&gt;
+ &lt;p&gt;祝大家聖誕快樂！&lt;/p&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
 &lt;h1&gt;自評&lt;/h1&gt;
- &lt;p&gt;70分!!!聖誕快樂!!!&lt;/p&gt;
+ &lt;p&gt;70分！Merry  Christmas☆★★☆&lt;/p&gt;
 &lt;/section&gt;
     </t>
 <t tx="leo.20160114223638.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
